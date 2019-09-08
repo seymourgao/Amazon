@@ -1,5 +1,4 @@
-# Amazon-
-Python pandas jieba
+# Amazon
 
 # :blush: 亚马逊某商品数据分析
 
