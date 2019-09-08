@@ -3,7 +3,7 @@ Python pandas jieba
 
 # :blush: 亚马逊某商品数据分析
 
-_使用 Pandas对数据进行提取分析，主要分析电商商品的评论、商品星级等。
+使用 Pandas对数据进行提取分析，主要分析电商商品的评论、商品星级等，数据源来自网络。
 
 ## 环境
 * Windows/Linux
@@ -14,7 +14,7 @@ _使用 Pandas对数据进行提取分析，主要分析电商商品的评论、
 
 ## 导入数据
  ```
-temp = pd.read_csv('E:/Tableau教程/amazon/Amazon.csv')
+temp = pd.read_csv('input/amazon/Amazon.csv')
 print(temp)
  ```
 ![](https://github.com/seymourgao/Photo/blob/master/1.png)
@@ -93,11 +93,7 @@ print(BrandStats[100:150])
 ![](https://github.com/seymourgao/Photo/blob/master/9.png)
 
 
-**打开浏览器 localhost:3000**
- 
- ## 效果图
- 
- ![](https://github.com/gxlibra/zufang/blob/master/zufang.PNG)
+
  
  
  
